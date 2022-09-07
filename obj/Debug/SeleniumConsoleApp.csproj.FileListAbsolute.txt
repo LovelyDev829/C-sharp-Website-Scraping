@@ -1,0 +1,20 @@
+F:\SeleniumConsoleApp\SeleniumConsoleApp\bin\Debug\SeleniumConsoleApp.exe.config
+F:\SeleniumConsoleApp\SeleniumConsoleApp\bin\Debug\SeleniumConsoleApp.exe
+F:\SeleniumConsoleApp\SeleniumConsoleApp\bin\Debug\SeleniumConsoleApp.pdb
+F:\SeleniumConsoleApp\SeleniumConsoleApp\bin\Debug\WebDriver.dll
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.AssemblyReference.cache
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.CoreCompileInputs.cache
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.CopyComplete
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.exe
+F:\SeleniumConsoleApp\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.pdb
+D:\exercises\SeleniumConsoleApp(1)\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.exe
+D:\exercises\SeleniumConsoleApp(1)\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.pdb
+E:\Net_Working\Rob W\SeleniumConsoleApp\bin\Debug\SeleniumConsoleApp.exe.config
+E:\Net_Working\Rob W\SeleniumConsoleApp\bin\Debug\SeleniumConsoleApp.exe
+E:\Net_Working\Rob W\SeleniumConsoleApp\bin\Debug\SeleniumConsoleApp.pdb
+E:\Net_Working\Rob W\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.AssemblyReference.cache
+E:\Net_Working\Rob W\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.SuggestedBindingRedirects.cache
+E:\Net_Working\Rob W\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.CoreCompileInputs.cache
+E:\Net_Working\Rob W\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.csproj.CopyComplete
+E:\Net_Working\Rob W\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.exe
+E:\Net_Working\Rob W\SeleniumConsoleApp\obj\Debug\SeleniumConsoleApp.pdb
